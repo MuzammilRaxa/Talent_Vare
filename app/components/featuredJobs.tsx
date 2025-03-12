@@ -78,12 +78,12 @@ const featuredJobs = () => {
               <i className="bx bx-time-five text-gray-600 mr-1"></i>
               <p>{convertDateToDays(job.created_at)}</p>
               <span className="mx-1">|</span>
-              <p className="text-blue-600">{job.applicants} Applicants</p>
+              <p className="text-[#0154AA]">{job.applicants} Applicants</p>
             </div>
 
             {/* Buttons */}
             <div className="flex justify-between items-center">
-              <button className="w-[150px] sm:w-24 bg-blue-700 text-white py-1.5 px-4 text-xs rounded-lg transition hover:bg-black">
+              <button className="w-[150px] sm:w-24 bg-[#0154AA] text-white py-1.5 px-4 text-xs rounded-lg transition hover:bg-black">
                 Apply Now
               </button>
               <FaBookmark className="text-gray-400 cursor-pointer text-xl" />

@@ -58,19 +58,19 @@ const ProfileCard: React.FC<ProfileCardProps> = ({
       <div className="bg-white shadow-lg rounded-2xl p-4 w-full space-y-4">
         <div className="flex text-center justify-between">
           <p className="text-gray-500">Profile Visitors</p>
-          <p className="font-bold text-blue-700">{profileVisitors}</p>
+          <p className="font-bold text-[#0154AA]">{profileVisitors}</p>
         </div>
         <hr className="border-t border-gray-300 my-2" />
 
         <div className="flex text-center justify-between">
           <p className="text-gray-500">Resume Viewers</p>
-          <p className="font-bold text-blue-700">{resumeViewers}</p>
+          <p className="font-bold text-[#0154AA]">{resumeViewers}</p>
         </div>
         <hr className="border-t border-gray-300 my-2" />
 
         <div className="flex text-center justify-between">
           <p className="text-gray-500">My Jobs</p>
-          <p className="font-bold text-blue-700">{myJobs}</p>
+          <p className="font-bold text-[#0154AA]">{myJobs}</p>
         </div>
       </div>
 
