@@ -42,7 +42,7 @@ const JobCards = () => {
         {jobs.slice(0, 8).map((job) => (
           <div
             key={job.id}
-            className="bg-white rounded-xl shadow p-4 w-[186px] h-[164px]"
+            className="bg-white rounded-xl shadow p-4 w-full sm:w-[186px] max-w-xs sm:max-w-none"
           >
             {/* Job Logo & Title */}
             <div className="flex items-center mb-2">
@@ -80,7 +80,7 @@ const JobCards = () => {
 
             {/* Buttons */}
             <div className="flex justify-between items-center">
-              <button className="bg-blue-700 text-white py-1.5 px-4 text-xs rounded-lg transition hover:bg-black">
+              <button className="w-[150px] sm:w-24 bg-blue-700 text-white py-1.5 px-4 text-xs rounded-lg transition hover:bg-black">
                 Apply Now
               </button>
               <FaBookmark className="text-gray-400 cursor-pointer text-xl" />
