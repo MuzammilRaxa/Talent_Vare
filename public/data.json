@@ -1,0 +1,70 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+      },
+      {
+        "id": 2,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+        
+      },
+      {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+      },
+      {
+        "id": 4,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+      },
+      {
+        "id": 5,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+      },
+      {
+        "id": 6,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+      },
+      {
+        "id": 7,
+        "title": "UI/UX Designer",
+        "company": "Teams",
+        "location": "Karachi, Pk",
+        "type":"Remote",
+        "created_at": "Sun, 03/09/2025",
+        "applicants": "22"
+      }
+      
+    ]
+  }
+  
