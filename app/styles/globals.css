@@ -4,8 +4,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'neue-haas-display';
-  src: url('/public/fonts/NeueHaasDisplayRoman.ttf') format('truetype');
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('/public/fonts/NeueHaasDisplayRoman.woff2') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;  /* Improves loading performance */
